@@ -1,0 +1,89 @@
+{
+  "uid" : "7094b88f25f2ac35",
+  "name" : "test_demo1",
+  "fullName" : "test_allure.Test_Demo#test_demo1",
+  "historyId" : "5b266f79e9c98aab5711241b7db0d246",
+  "time" : {
+    "start" : 1646554146141,
+    "stop" : 1646554146141,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "给用例里面的步骤加备注",
+      "time" : {
+        "start" : 1646554146141,
+        "stop" : 1646554146141,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "12d41f981b6d00bc",
+      "name" : "stdout",
+      "source" : "12d41f981b6d00bc.txt",
+      "type" : "text/plain",
+      "size" : 10
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "给用例加备注"
+  }, {
+    "name" : "feature",
+    "value" : "给模块加备注"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Demo"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-D0ENG2JU"
+  }, {
+    "name" : "thread",
+    "value" : "19204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7094b88f25f2ac35.json",
+  "parameterValues" : [ ]
+}

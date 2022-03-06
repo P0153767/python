@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-D0ENG2JU",
+    "children" : [ {
+      "name" : "19204-MainThread",
+      "children" : [ {
+        "name" : "test_demo1",
+        "uid" : "7094b88f25f2ac35",
+        "parentUid" : "c4e7101f6f4bae22a6287a6095b0a0a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646554146141,
+          "stop" : 1646554146141,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c4e7101f6f4bae22a6287a6095b0a0a2"
+    } ],
+    "uid" : "ea5566cb3d23cac1f133be8967d22734"
+  } ]
+}
